@@ -7,3 +7,7 @@ var test1 = sum.TwoSumFunc();
 
 AddTwoNumbers nums = new AddTwoNumbers();
 var test2 = nums.AddTwoNumbersFunc();
+
+PalindromeNum palin = new PalindromeNum();
+var test3 = palin.IsPalindrome();
+
