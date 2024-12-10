@@ -10,9 +10,13 @@ using LeetCodeperday.Medium;
 
 //PalindromeNum palin = new PalindromeNum();
 //var test3 = palin.IsPalindrome();
-var test = "new testIV";
-test = test.Replace("IV", "");
-RomanToInt roman = new RomanToInt();
-var test4 = roman.RomanToIntBetterFunc();
+
+//RomanToInt roman = new RomanToInt();
+//var test4 = roman.RomanToIntBetterFunc();
+
+LongestCommonPrefix prefix = new LongestCommonPrefix();
+var test5 = prefix.LongestCommonPrefixFunc();
+
+
 
 
