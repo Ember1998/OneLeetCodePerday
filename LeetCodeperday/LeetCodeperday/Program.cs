@@ -14,8 +14,11 @@ using LeetCodeperday.Medium;
 //RomanToInt roman = new RomanToInt();
 //var test4 = roman.RomanToIntBetterFunc();
 
-LongestCommonPrefix prefix = new LongestCommonPrefix();
-var test5 = prefix.LongestCommonPrefixFunc();
+//LongestCommonPrefix prefix = new LongestCommonPrefix();
+//var test5 = prefix.LongestCommonPrefixFunc();
+
+ValidParatheses prefix = new ValidParatheses();
+var test5 = prefix.ValidParanthesesFunc();
 
 
 
