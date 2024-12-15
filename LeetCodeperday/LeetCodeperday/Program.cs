@@ -2,6 +2,8 @@
 using LeetCodeperday.Easy;
 using LeetCodeperday.Medium;
 
+//Easy
+
 //TwoSum sum = new TwoSum();
 //var test1 = sum.TwoSumFunc();
 
@@ -17,9 +19,13 @@ using LeetCodeperday.Medium;
 //LongestCommonPrefix prefix = new LongestCommonPrefix();
 //var test5 = prefix.LongestCommonPrefixFunc();
 
-ValidParatheses prefix = new ValidParatheses();
-var test5 = prefix.ValidParanthesesFunc();
+//ValidParatheses prefix = new ValidParatheses();
+//var test5 = prefix.ValidParanthesesFunc();
 
 
+//Medium
+
+LengthOfLongestSubstring prefix = new();
+var test5 = prefix.LengthOfLongestSubstringFunc();
 
 
